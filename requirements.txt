@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+crewai
+langchain-groq
+duckduckgo-search
+pydantic
+python-multipart

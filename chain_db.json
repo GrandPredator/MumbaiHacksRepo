@@ -1,0 +1,57 @@
+[
+    {
+        "index": 1,
+        "timestamp": 1764380469.40919,
+        "proof": 100,
+        "previous_hash": "1",
+        "data": "Genesis Block - SatyaChain Initialized"
+    },
+    {
+        "index": 2,
+        "timestamp": 1764380504.8632128,
+        "proof": 35293,
+        "previous_hash": "e67460d6e68b9f82014eb4939b902a74974c4384c1f17e8f388a9dc593b9241e",
+        "data": {
+            "claim_summary": "Chandrayaan-3 landed on the moon",
+            "verdict": "VERIFIED",
+            "trust_score": 100,
+            "evidence": [
+                "https://www.bbc.com/news/world-asia-india-66594520",
+                "https://www.isro.gov.in/Chandrayaan3_Details.html",
+                "https://en.wikipedia.org/wiki/Chandrayaan-3"
+            ]
+        }
+    },
+    {
+        "index": 3,
+        "timestamp": 1764381792.9729903,
+        "proof": 35089,
+        "previous_hash": "6ab8bae8010f2cd0a4656159f232bbe0c6c9b949f1b834adfba4b17622a6531b",
+        "data": {
+            "claim_summary": "Chandrayaan-3 landed on the moon",
+            "verdict": "VERIFIED",
+            "trust_score": 100,
+            "evidence": [
+                "https://en.wikipedia.org/wiki/Chandrayaan_programme",
+                "https://www.isro.gov.in/Chandrayaan3_Details.html",
+                "https://www.ndtv.com/india-news/isro-to-launch-chandrayaan-4-in-2028-space-station-by-2035-chairman-v-narayanan-9644635"
+            ]
+        }
+    },
+    {
+        "index": 4,
+        "timestamp": 1764393965.1061022,
+        "proof": 119678,
+        "previous_hash": "751d2168ad22cac03e7659e969464c7403cefba230ad662366ccd44224317c74",
+        "data": {
+            "claim_summary": "RBI banned 2000 note",
+            "verdict": "VERIFIED",
+            "trust_score": 100,
+            "evidence": [
+                "https://www.rbi.org.in/",
+                "https://en.wikipedia.org/wiki/Reserve_Bank_of_India",
+                "https://www.moneycontrol.com/news/business/rbi-monetry-policy-metings-live-rbi-mpc-august-2025-repo-rate-announcements-governor-sanjay-malhotra-speech-liveblog-13398789.html"
+            ]
+        }
+    }
+]
